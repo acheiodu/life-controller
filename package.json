@@ -1,0 +1,23 @@
+{
+  "name": "life-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acheiodu/life-controller.git"
+  },
+  "author": "Eduardo Atanazio de Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acheiodu/life-controller/issues"
+  },
+  "homepage": "https://github.com/acheiodu/life-controller#readme",
+  "dependencies": {
+    "express": "4.15.2",
+    "open": "0.0.5"
+  }
+}
